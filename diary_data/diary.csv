@@ -1,0 +1,7 @@
+#DailyTask:今日までのDailyTaskが完全に終わっていたら"1"
+#TechHobby:趣味で技術的な活動を行ったか、行った場合は行った活動を選択、もしくは記述
+#Muscle:筋トレを行った時間を記録
+#porno:ポルノを閲覧した回数を記録
+#masturvation:自慰を行った回数を記録
+
+Date,DailyTask,Muscle,porno,masturbation
